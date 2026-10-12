@@ -133,8 +133,6 @@ Daily driver: **Fedora** · servers: **Debian** · compat/testing: **Windows**
 
 ![snake](https://raw.githubusercontent.com/sudxxt-afk/sudxxt-afk/output/snake.svg)
 
-> Needs the `Generate Snake` workflow from this repo (`.github/workflows/snake.yml`). After first run it renders here automatically.
-
 ---
 
 ### 📫 Contacts
