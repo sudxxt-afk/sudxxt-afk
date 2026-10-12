@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Hi%20there,%20I'm%20kudesnik%20👋&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Dev%20•%20Telegram%20Bots%20•%20FastAPI%20•%20Docker&descAlignY=62&descSize=15&descAlign=center" />
 
 <p align="center">
-  <a href="https://github.com/sudxxt-afk"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+Developer+%7C+Enthusiast;Telegram+Bots+%2B+Backend+%2B+DevOps;I+build+kudexgram%2C+bots+and+web+apps" alt="Typing SVG" /></a>
+  <a href="https://github.com/sudxxt-afk"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+Developer+%7C+Enthusiast;Telegram+Bots+%2B+Backend+%2B+DevOps;I+build+bots+and+web+apps" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -20,13 +20,12 @@ kudesnik = {
     "role": "Python Developer",
     "location": "Russia",
     "focus": ["Telegram bots", "Backend (FastAPI)", "Fullstack mini-apps"],
-    "flagship": "kudexgram — production-grade Python framework for Telegram bots",
     "currently": "Building bots, data pipelines and web apps",
     "contact": "https://t.me/defibrilla_tor",
 }
 ```
 
-- 🔭 Now: `kudexgram` framework + `kudexcut_bot` (backend / bot / worker / miniapp)
+- 🔭 Now: building Telegram bots, backends and mini-apps
 - 🛠️ Daily: **Python, FastAPI, aiogram, PostgreSQL, Redis, Docker**
 - 📦 Also ship: **TypeScript + React / Next.js** frontends
 - 📫 Reach me: **https://t.me/defibrilla_tor** / `sudxxt@gmail.com`
@@ -104,28 +103,6 @@ Daily driver: **Fedora** · servers: **Debian** · compat/testing: **Windows**
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudxxt-afk&theme=tokyonight" alt="profile details" />
 </p>
-
----
-
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/sudxxt-afk/kudexgram"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=sudxxt-afk&repo=kudexgram&theme=tokyonight&hide_border=true" alt="kudexgram" /></a>
-  <a href="https://github.com/sudxxt-afk/kudexcut_bot"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=sudxxt-afk&repo=kudexcut_bot&theme=tokyonight&hide_border=true" alt="kudexcut_bot" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sudxxt-afk/konvert_bot"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=sudxxt-afk&repo=konvert_bot&theme=tokyonight&hide_border=true" alt="konvert_bot" /></a>
-  <a href="https://github.com/sudxxt-afk/company-data-pipeline"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=sudxxt-afk&repo=company-data-pipeline&theme=tokyonight&hide_border=true" alt="pipeline" /></a>
-</p>
-
-| Project | What it is | Stack |
-|---|---|---|
-| [kudexgram](https://github.com/sudxxt-afk/kudexgram) | Production-grade Python framework for Telegram bots | Python 3.11+, httpx, msgspec, typer, pytest, ruff |
-| [kudexcut_bot](https://github.com/sudxxt-afk/kudexcut_bot) | Bot + backend + worker + miniapp | Python, Docker, miniapp |
-| [konvert_bot](https://github.com/sudxxt-afk/konvert_bot) | File converter bot (PDF/DOCX/XLSX/QR) | aiogram 3, Pillow, Docker |
-| [company-data-pipeline](https://github.com/sudxxt-afk/company-data-pipeline) | Data import + validation + dashboard | Python, Next.js 16, React 19, Postgres |
-| [Kudex-music](https://github.com/sudxxt-afk/Kudex-music) | Music player web app | FastAPI, SQLAlchemy, Redis, Docker, Nginx |
 
 ---
 
