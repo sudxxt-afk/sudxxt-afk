@@ -13,7 +13,7 @@
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
 ```python
 kudesnik = {
@@ -26,14 +26,14 @@ kudesnik = {
 }
 ```
 
-- Now: `kudexgram` framework + `kudexcut_bot` (backend / bot / worker / miniapp)
-- Daily: **Python, FastAPI, aiogram, PostgreSQL, Redis, Docker**
-- Also ship: **TypeScript + React / Next.js** frontends
-- Reach me: **https://t.me/defibrilla_tor** / `sudxxt@gmail.com`
+- 🔭 Now: `kudexgram` framework + `kudexcut_bot` (backend / bot / worker / miniapp)
+- 🛠️ Daily: **Python, FastAPI, aiogram, PostgreSQL, Redis, Docker**
+- 📦 Also ship: **TypeScript + React / Next.js** frontends
+- 📫 Reach me: **https://t.me/defibrilla_tor** / `sudxxt@gmail.com`
 
 ---
 
-### Tech Stack
+### 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,react,nextjs,fastapi,postgres,sqlite,redis,docker,nginx,git,linux,bash,vscode&theme=dark" alt="stack" />
@@ -74,10 +74,10 @@ kudesnik = {
 
 ---
 
-### OS I Use
+### 🖥️ OS I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fedora,debian,windows,linux&theme=dark" alt="os" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,windows&theme=dark" alt="os" />
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ Daily driver: **Fedora** · servers: **Debian** · compat/testing: **Windows**
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=sudxxt-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
@@ -102,12 +102,12 @@ Daily driver: **Fedora** · servers: **Debian** · compat/testing: **Windows**
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sudxxt-afk&theme=tokyo-night&hide_border=true&area=true" alt="activity" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudxxt-afk&theme=tokyonight" alt="profile details" />
 </p>
 
 ---
 
-### Featured Projects
+### 📌 Featured Projects
 
 <p align="center">
   <a href="https://github.com/sudxxt-afk/kudexgram"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=sudxxt-afk&repo=kudexgram&theme=tokyonight&hide_border=true" alt="kudexgram" /></a>
@@ -129,7 +129,7 @@ Daily driver: **Fedora** · servers: **Debian** · compat/testing: **Windows**
 
 ---
 
-### Contribution Snake
+### 🐍 Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/sudxxt-afk/sudxxt-afk/output/snake.svg)
 
@@ -137,7 +137,7 @@ Daily driver: **Fedora** · servers: **Debian** · compat/testing: **Windows**
 
 ---
 
-### Contacts
+### 📫 Contacts
 
 <p align="center">
   <a href="https://t.me/defibrilla_tor"><img src="https://img.shields.io/badge/Telegram-defibrilla_tor-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
