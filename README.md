@@ -36,7 +36,7 @@ kudesnik = {
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,react,nextjs,fastapi,postgres,sqlite,redis,docker,nginx,git,linux,bash,vscode&theme=dark" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,react,nextjs,fastapi,postgres,sqlite,redis,docker,nginx,git,linux,bash&theme=dark" alt="stack" />
 </p>
 
 **Languages I write:**
