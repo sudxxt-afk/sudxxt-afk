@@ -35,7 +35,7 @@ kudesnik = {
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,fastapi,postgres,redis,docker,nginx,git&theme=dark" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,nodejs,fastapi,postgres,redis,docker,git&theme=dark" alt="stack" />
 </p>
 
 **Languages I write:**
@@ -48,8 +48,6 @@ kudesnik = {
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 **Frontend / Data:**
 
@@ -57,6 +55,7 @@ kudesnik = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 **DevOps / Tools:**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -97,8 +96,6 @@ Daily driver: **Fedora** · servers: **Debian** · compat/testing: **Windows**
 </p>
 
 ---
-
-### 🐍 Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/sudxxt-afk/sudxxt-afk/output/snake.svg)
 
