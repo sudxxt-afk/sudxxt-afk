@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudxxt-afk&label=views&color=7c3aed&style=for-the-badge&labelColor=0d1117" alt="views" />
   <a href="https://github.com/sudxxt-afk?tab=followers"><img src="https://img.shields.io/github/followers/sudxxt-afk?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&logoColor=white" alt="followers" /></a>
   <a href="https://t.me/defibrilla_tor"><img src="https://img.shields.io/badge/Telegram-defibrilla__tor-22d3ee?style=for-the-badge&logo=telegram&logoColor=22d3ee&labelColor=0d1117" alt="telegram" /></a>
 </p>
@@ -45,16 +44,16 @@ kudesnik = {
 
 <table align="center">
   <tr>
-    <td><a href="https://github.com/sudxxt-afk/SPEAR-GUARD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudxxt-afk&repo=SPEAR-GUARD&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=a78bfa&icon_color=22d3ee&hide_border=false" /></a></td>
-    <td><a href="https://github.com/sudxxt-afk/mudex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudxxt-afk&repo=mudex&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=a78bfa&icon_color=22d3ee" /></a></td>
+    <td><a href="https://github.com/sudxxt-afk/SPEAR-GUARD"><img src="https://raw.githubusercontent.com/sudxxt-afk/sudxxt-afk/main/assets/pin-SPEAR-GUARD.svg" alt="SPEAR-GUARD" /></a></td>
+    <td><a href="https://github.com/sudxxt-afk/mudex"><img src="https://raw.githubusercontent.com/sudxxt-afk/sudxxt-afk/main/assets/pin-mudex.svg" alt="mudex" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sudxxt-afk/kudexgram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudxxt-afk&repo=kudexgram&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=a78bfa&icon_color=22d3ee" /></a></td>
-    <td><a href="https://github.com/sudxxt-afk/hyprland-quickshell-rice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudxxt-afk&repo=hyprland-quickshell-rice&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=a78bfa&icon_color=22d3ee" /></a></td>
+    <td><a href="https://github.com/sudxxt-afk/kudexgram"><img src="https://raw.githubusercontent.com/sudxxt-afk/sudxxt-afk/main/assets/pin-kudexgram.svg" alt="kudexgram" /></a></td>
+    <td><a href="https://github.com/sudxxt-afk/hyprland-quickshell-rice"><img src="https://raw.githubusercontent.com/sudxxt-afk/sudxxt-afk/main/assets/pin-hyprland-quickshell-rice.svg" alt="hyprland-quickshell-rice" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sudxxt-afk/url-shortener"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudxxt-afk&repo=url-shortener&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=a78bfa&icon_color=22d3ee" /></a></td>
-    <td><a href="https://github.com/sudxxt-afk/kudexcut_bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sudxxt-afk&repo=kudexcut_bot&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=a78bfa&icon_color=22d3ee" /></a></td>
+    <td><a href="https://github.com/sudxxt-afk/url-shortener"><img src="https://raw.githubusercontent.com/sudxxt-afk/sudxxt-afk/main/assets/pin-url-shortener.svg" alt="url-shortener" /></a></td>
+    <td><a href="https://github.com/sudxxt-afk/kudexcut_bot"><img src="https://raw.githubusercontent.com/sudxxt-afk/sudxxt-afk/main/assets/pin-kudexcut_bot.svg" alt="kudexcut_bot" /></a></td>
   </tr>
 </table>
 
@@ -63,20 +62,15 @@ kudesnik = {
 ## `~/stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sudxxt-afk&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=a78bfa&icon_color=22d3ee&ring_color=7c3aed&count_private=true" alt="stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=sudxxt-afk&theme=tokyonight&background=0d1117&border=30363d&ring=7c3aed&fire=a78bfa&currStreakLabel=22d3ee" alt="streak" />
+  <img src="https://raw.githubusercontent.com/sudxxt-afk/sudxxt-afk/main/assets/stats.svg" alt="stats" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudxxt-afk&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=a78bfa&langs_count=8" alt="langs" />
+  <img src="https://streak-stats.demolab.com?user=sudxxt-afk&theme=tokyonight&background=0d1117&border=30363d&ring=7c3aed&fire=a78bfa&currStreakLabel=22d3ee" alt="streak" />
 </p>
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudxxt-afk&theme=tokyonight" alt="profile details" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sudxxt-afk&bg_color=0d1117&color=a78bfa&line=7c3aed&point=22d3ee&area=true&area_color=7c3aed&hide_border=true" alt="activity graph" />
 </p>
 
 <p align="center">
