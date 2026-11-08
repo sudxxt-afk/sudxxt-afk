@@ -1,57 +1,20 @@
-<p align="center">
-  <img src="assets/hero.svg" width="100%" alt="kudesnik: Python backend developer. I build backends, Telegram bots and the infra they run on." />
-</p>
+### Hi, I'm kudesnik
 
-<p align="center">
-  <a href="https://t.me/defibrilla_tor"><img src="assets/btn-telegram.svg" alt="Telegram: @defibrilla_tor" /></a>&nbsp;
-  <a href="mailto:sudxxt@gmail.com"><img src="assets/btn-email.svg" alt="Email: sudxxt@gmail.com" /></a>&nbsp;
-  <a href="https://github.com/sudxxt-afk?tab=repositories"><img src="assets/btn-github.svg" alt="All repositories" /></a>
-</p>
+Python backend developer from Russia. Mostly Telegram bots and the FastAPI services behind them, deployed with Docker on my own servers.
 
-<br/>
+Telegram [@defibrilla_tor](https://t.me/defibrilla_tor) · Email [sudxxt@gmail.com](mailto:sudxxt@gmail.com)
 
-I'm a Python backend developer from Russia. I ship complete products around Telegram: the bot, the FastAPI backend, background workers, the database, and the Docker setup it all runs in.
+#### Projects
 
-<table>
-  <tr>
-    <td width="25%" valign="top"><b>Backend</b><br/><sub>FastAPI · SQLAlchemy · Celery · PostgreSQL · Redis</sub></td>
-    <td width="25%" valign="top"><b>Telegram</b><br/><sub>aiogram bots · Mini Apps · admin panels · subscription flows</sub></td>
-    <td width="25%" valign="top"><b>Frontend</b><br/><sub>TypeScript · React · Next.js · Vue · Tailwind</sub></td>
-    <td width="25%" valign="top"><b>Infra</b><br/><sub>Docker Compose · Nginx · Caddy · Linux servers · GitHub Actions</sub></td>
-  </tr>
-</table>
+| Project | Description |
+|---|---|
+| [SPEAR-GUARD](https://github.com/sudxxt-afk/SPEAR-GUARD) | Checks incoming email for spear-phishing: SPF/DKIM/DMARC, suspicious links, pressure language, sender history. Python, FastAPI, Celery, PostgreSQL. |
+| [mudex](https://github.com/sudxxt-afk/mudex) | Terminal music player in Go with an FFT visualizer. Draws album covers with half-block characters, so it works in any terminal. |
+| [dstu_assistant](https://github.com/sudxxt-afk/dstu_assistant) | Telegram bot for my university schedule, lecture notes (synced to Obsidian) and deadlines. FastAPI, aiogram, SQLite. |
+| [kudexcut_bot](https://github.com/sudxxt-afk/kudexcut_bot) | Telegram bot that trims videos. You pick the fragment in a Mini App, an FFmpeg worker cuts it. |
+| [vpn-free](https://github.com/sudxxt-afk/vpn-free) | Backend and bot that hand out free VPN subscriptions and check proxy nodes with Xray. |
+| [think-asta](https://github.com/sudxxt-afk/think-asta) | Website and admin panel for an agency. Next.js, Prisma, PostgreSQL. |
 
-## Featured work
+#### Stack
 
-<p align="center">
-  <a href="https://github.com/sudxxt-afk/SPEAR-GUARD"><img src="assets/project-SPEAR-GUARD.svg" width="49%" alt="SPEAR-GUARD" /></a>
-  <a href="https://github.com/sudxxt-afk/mudex"><img src="assets/project-mudex.svg" width="49%" alt="mudex" /></a>
-  <a href="https://github.com/sudxxt-afk/dstu_assistant"><img src="assets/project-dstu_assistant.svg" width="49%" alt="dstu_assistant" /></a>
-  <a href="https://github.com/sudxxt-afk/kudexcut_bot"><img src="assets/project-kudexcut_bot.svg" width="49%" alt="kudexcut_bot" /></a>
-  <a href="https://github.com/sudxxt-afk/vpn-free"><img src="assets/project-vpn-free.svg" width="49%" alt="vpn-free" /></a>
-  <a href="https://github.com/sudxxt-afk/think-asta"><img src="assets/project-think-asta.svg" width="49%" alt="think-asta" /></a>
-</p>
-
-## Toolbox
-
-<p align="center">
-  <img src="assets/stack.svg" alt="Python, FastAPI, PostgreSQL, Redis, SQLite, Docker, Nginx, Linux, Bash, GitHub Actions, Go, TypeScript, React, Next.js, Vue, Tailwind, Prisma, Git" />
-</p>
-
-## Activity
-
-<p align="center">
-  <img src="assets/stats.svg" width="100%" alt="Contribution stats, weekly activity and language breakdown" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudxxt-afk/sudxxt-afk/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudxxt-afk/sudxxt-afk/output/snake.svg" />
-    <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/sudxxt-afk/sudxxt-afk/output/snake.svg" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="" />
-</p>
+Python, FastAPI, aiogram, SQLAlchemy, Celery, PostgreSQL, Redis. TypeScript with React, Next.js or Vue when a project needs a frontend. Docker Compose, Nginx, Caddy, GitHub Actions. Fedora on the desktop, Debian on servers.
