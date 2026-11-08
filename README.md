@@ -10,14 +10,14 @@
 
 <br/>
 
-I'm a Python backend developer from Russia. I ship complete products around Telegram: the bot, the FastAPI backend, background workers, the database, and the Docker setup it all runs in. Lately I've also been building email security tooling and terminal apps in Go.
+I'm a Python backend developer from Russia. I ship complete products around Telegram: the bot, the FastAPI backend, background workers, the database, and the Docker setup it all runs in.
 
 <table>
   <tr>
     <td width="25%" valign="top"><b>Backend</b><br/><sub>FastAPI · SQLAlchemy · Celery · PostgreSQL · Redis</sub></td>
     <td width="25%" valign="top"><b>Telegram</b><br/><sub>aiogram bots · Mini Apps · admin panels · subscription flows</sub></td>
     <td width="25%" valign="top"><b>Frontend</b><br/><sub>TypeScript · React · Next.js · Vue · Tailwind</sub></td>
-    <td width="25%" valign="top"><b>Infra</b><br/><sub>Docker Compose · Nginx · Linux servers · GitHub Actions · Raspberry Pi</sub></td>
+    <td width="25%" valign="top"><b>Infra</b><br/><sub>Docker Compose · Nginx · Caddy · Linux servers · GitHub Actions</sub></td>
   </tr>
 </table>
 
